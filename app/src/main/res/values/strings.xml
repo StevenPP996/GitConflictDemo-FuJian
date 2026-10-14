@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Git Conflict Demo</string>
+    <string name="screen_title">Practical 4: Merge Conflict Demo</string>
+    <string name="screen_description">Both buttons start with the same colour.</string>
+    <string name="primary_action">Primary action</string>
+    <string name="secondary_action">Secondary action</string>
+    <string name="primary_clicked">Primary button clicked</string>
+    <string name="secondary_clicked">Secondary button clicked</string>
+</resources>
