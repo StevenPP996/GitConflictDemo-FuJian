@@ -32,7 +32,7 @@
         android:id="@+id/primaryButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:backgroundTint="@android:color/black"
+        android:backgroundTint="#F44336"
         android:text="@string/primary_action" />
 
     <Button
@@ -40,7 +40,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="12dp"
-        android:backgroundTint="@android:color/black"
+        android:backgroundTint="#F44336"
         android:text="@string/secondary_action" />
 
 </LinearLayout>
